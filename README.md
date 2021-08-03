@@ -1,5 +1,5 @@
 # quizizz-hack
-Tampermonkey Scrip hack Quizlet live
+Tampermonkey Scrip hack Quizizz
 
 ## 03/08/2021 | Working !
 
