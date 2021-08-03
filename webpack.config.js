@@ -23,9 +23,9 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
   },
   plugins: [
-    new obfuscator ({
-      rotateStringArray: true,
-      splitStrings: true,
-    })
+    // new obfuscator ({
+    //   rotateStringArray: true,
+    //   splitStrings: true,
+    // })
   ],
 };
