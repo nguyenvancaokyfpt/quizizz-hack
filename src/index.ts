@@ -102,7 +102,7 @@ const getQuestionInfo = (): {
 (async () => {
   console.log(
     `%c 
-  Script created by Nguyễn Văn Cao Kỳ! 
+  Script created by Nguyen Van Cao Ky! 
   `,
     "color: green;"
   );
