@@ -1,6 +1,8 @@
 # quizizz-hack
 Tampermonkey Script hack Quizizz
 
+[Click here to Install](https://github.com/nguyenvancaokyfpt/quizizz-hack/raw/main/quizizz_hack_script.user.js)
+
 ## 03/08/2021 | Working !
 
 
